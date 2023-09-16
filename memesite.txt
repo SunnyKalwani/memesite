@@ -1,0 +1,17 @@
+TODO - Create a motivational website
+
+Features - 
+1) The main h1 text should be using Regular Libre Baskerville Font from google fonts:
+
+https://fonts.google.com/specimen/Libre+Baskerville
+
+2) Text should be white and black background
+3) Add your won image into the images folder inside assets. It should have a 5px white border.
+4) The text should be center aligned.
+5) Create a div to contain the h1, p and img elements. Adjust the margins so that the image and text are centered on the page.
+
+Hint: You horizontally center a div by giving it a width of 50% and margin left of 25%
+Hint: Set the image to have of 100% so it fills the div.
+
+6) Read about the text-transformation property on MDN docs to make the h1 uppercase with CSS
+https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform
